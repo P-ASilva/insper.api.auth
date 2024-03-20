@@ -1,0 +1,11 @@
+insper\api\auth\AuthController.class
+insper\api\auth\SolveIn$SolveInBuilder.class
+insper\api\auth\LoginOut$LoginOutBuilder.class
+insper\api\auth\LoginOut.class
+insper\api\auth\RegisterIn.class
+insper\api\auth\CredentialIn$CredentialInBuilder.class
+insper\api\auth\SolveIn.class
+insper\api\auth\SolveOut$SolveOutBuilder.class
+insper\api\auth\CredentialIn.class
+insper\api\auth\RegisterIn$RegisterInBuilder.class
+insper\api\auth\SolveOut.class
